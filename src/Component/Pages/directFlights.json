@@ -1,0 +1,138 @@
+[
+  {
+    "origin": "Mumbai",
+    "destination": "Delhi",
+    "airline": "IndiGo",
+    "flightNumber": "6E381",
+    "departureTime": "2023-05-01T06:30:00Z",
+    "arrivalTime": "2023-05-01T09:30:00Z",
+    "cost": "6520"
+  },
+
+  {
+    "origin": "Bangalore",
+    "destination": "Chennai",
+    "airline": "SpiceJet",
+    "flightNumber": "SG102",
+    "departureTime": "2023-05-01T08:00:00Z",
+    "arrivalTime": "2023-05-01T09:15:00Z",
+    "cost": "4520"
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Mumbai",
+    "airline": "Air India",
+    "flightNumber": "AI101",
+    "departureTime": "2023-05-02T10:30:00Z",
+    "arrivalTime": "2023-05-02T13:30:00Z",
+    "cost": "8520"
+  },
+  {
+    "origin": "Kolkata",
+    "destination": "Hyderabad",
+    "airline": "Vistara",
+    "flightNumber": "UK701",
+    "departureTime": "2023-05-03T07:00:00Z",
+    "arrivalTime": "2023-05-03T09:30:00Z",
+    "cost": "8520"
+  },
+  {
+    "origin": "Chennai",
+    "destination": "Mumbai",
+    "airline": "GoAir",
+    "flightNumber": "G817",
+    "departureTime": "2023-05-04T12:15:00Z",
+    "arrivalTime": "2023-05-04T14:45:00Z",
+    "cost": "4220"
+  },
+  {
+    "origin": "Mumbai",
+    "destination": "Bengaluru",
+    "airline": "AirAsia India",
+    "flightNumber": "I5551",
+    "departureTime": "2023-05-05T06:00:00Z",
+    "arrivalTime": "2023-05-05T08:30:00Z",
+    "cost": "2520"
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Mumbai",
+    "airline": "IndiGo",
+    "flightNumber": "6E204",
+    "departureTime": "2023-05-03T08:30:00Z",
+    "arrivalTime": "2023-05-03T11:30:00Z",
+    "cost": 4500
+  },
+  {
+    "origin": "Mumbai",
+    "destination": "Delhi",
+    "airline": "Air India",
+    "flightNumber": "AI101",
+    "departureTime": "2023-05-03T09:45:00Z",
+    "arrivalTime": "2023-05-03T12:45:00Z",
+    "cost": 5000
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Kolkata",
+    "airline": "GoAir",
+    "flightNumber": "G8173",
+    "departureTime": "2023-05-04T11:15:00Z",
+    "arrivalTime": "2023-05-04T14:15:00Z",
+    "cost": 6000
+  },
+  {
+    "origin": "Kolkata",
+    "destination": "Delhi",
+    "airline": "SpiceJet",
+    "flightNumber": "SG102",
+    "departureTime": "2023-05-04T12:00:00Z",
+    "arrivalTime": "2023-05-04T15:00:00Z",
+    "cost": 5500
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Chennai",
+    "airline": "Air India",
+    "flightNumber": "AI263",
+    "departureTime": "2023-05-05T10:30:00Z",
+    "arrivalTime": "2023-05-05T13:30:00Z",
+    "cost": 7000
+  },
+  {
+    "origin": "Chennai",
+    "destination": "Delhi",
+    "airline": "IndiGo",
+    "flightNumber": "6E303",
+    "departureTime": "2023-05-05T11:45:00Z",
+    "arrivalTime": "2023-05-05T14:45:00Z",
+    "cost": 6500
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Hyderabad",
+    "airline": "SpiceJet",
+    "flightNumber": "SG846",
+    "departureTime": "2023-05-06T09:15:00Z",
+    "arrivalTime": "2023-05-06T12:15:00Z",
+    "cost": 5500
+  },
+  {
+    "origin": "Hyderabad",
+    "destination": "Delhi",
+    "airline": "GoAir",
+    "flightNumber": "G8558",
+    "departureTime": "2023-05-06T10:45:00Z",
+    "arrivalTime": "2023-05-06T13:45:00Z",
+    "cost": 6000
+  },
+  {
+    "origin": "Delhi",
+    "destination": "Bengaluru",
+    "airline": "IndiGo",
+    "flightNumber": "6E404",
+    "departureTime": "2023-05-06T10:45:00Z",
+    "arrivalTime": "2023-05-06T13:45:00Z",
+    "cost": 6000
+  }
+]
